@@ -675,7 +675,6 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/ScanflowCore",
-					"$(SRCROOT)/ScanflowCore",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = NO;
 				GCC_PREFIX_HEADER = "/Users/mac-obs-46/Desktop/ScanflowCoreFramework/ScanflowCoreFramework/SupportFile/ios-Prefix.pch";
@@ -730,7 +729,6 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/ScanflowCore",
-					"$(SRCROOT)/ScanflowCore",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = NO;
 				GCC_PREFIX_HEADER = "/Users/mac-obs-46/Desktop/ScanflowCoreFramework/ScanflowCoreFramework/SupportFile/ios-Prefix.pch";

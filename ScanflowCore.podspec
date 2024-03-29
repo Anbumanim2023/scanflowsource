@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name             = 'ScanflowCore'
-  spec.version          = '1.0.9'
+  spec.version          = '3.3.3'
   spec.summary          = 'A brief description of ScanflowCore.'
   spec.description      = <<-DESC
                           A longer description of ScanflowCore in Markdown format.
@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.homepage         = 'https://www.scanflow.ai'
   #spec.license          = { :type => 'MIT', :file => 'LICENSE' }
   spec.author           = { 'Ramnath' => 'ramnath.t@optisolbusiness.com' }
-  spec.source           = { :git => 'https://github.com/Anbumanim2023/scanflowsource.git', :branch => "master" }
+  spec.source           = { :http => 'https://drive.google.com/file/d/1LBvbXpHMUgwbettoxGfyHP6j-KpzVXLV/view?usp=sharing'}
   spec.vendored_frameworks = 'ScanflowCore.framework','opencv2.framework'
   
   spec.swift_version    = '5.0'

@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.homepage         = 'https://www.scanflow.ai'
   #spec.license          = { :type => 'MIT', :file => 'LICENSE' }
   spec.author           = { 'Ramnath' => 'ramnath.t@optisolbusiness.com' }
-  spec.source           = { :http => 'https://drive.google.com/file/d/1LBvbXpHMUgwbettoxGfyHP6j-KpzVXLV/view?usp=sharing'}
+  spec.source           = { :git => 'https://github.com/Anbumanim2023/scanflowbarcodesource.git', :branch => "master" }
   spec.vendored_frameworks = 'ScanflowCore.framework','opencv2.framework'
   
   spec.swift_version    = '5.0'
